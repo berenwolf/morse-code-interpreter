@@ -1,20 +1,25 @@
-# Morse Code Interpreter
-
-## 📌 Description
-This project is a Morse Code Interpreter designed to convert Morse code signals into readable text.  
-It focuses on signal detection, interpretation, and real-time output using embedded system logic.
+<h1 align="center">🔤 Morse Code Interpreter</h1>
+<p align="center">
+  An embedded systems project that converts Morse code signals into readable text ⚡
+</p>
 
 ---
 
-## 🎯 Objectives
-- Detect Morse code inputs  
-- Interpret dots and dashes  
+## 🚀 Overview
+This project focuses on interpreting Morse code signals and converting them into human-readable text using embedded system logic.  
+It combines circuit design, signal processing, and real-time decoding to demonstrate practical engineering implementation.
+
+---
+
+## 🎯 Key Objectives
+- Detect Morse code inputs (dots and dashes)  
+- Interpret signal patterns accurately  
 - Convert signals into readable characters  
-- Strengthen knowledge in embedded systems and signal processing  
+- Gain hands-on experience in embedded systems and signal processing  
 
 ---
 
-## ⚙️ Components
+## ⚙️ Hardware Components
 - Arduino  
 - Buzzer  
 - Potentiometer  
@@ -23,16 +28,7 @@ It focuses on signal detection, interpretation, and real-time output using embed
 
 ---
 
-## 🚀 Features
-- Real-time decoding  
-- Adjustable sensitivity  
-- Simple and efficient design  
-- Practical implementation of signal processing concepts  
-
----
-
-## 🧠 Technologies Used
-- Arduino  
+## 🧠 Technologies & Concepts
 - Embedded Systems  
 - Signal Processing  
 - Circuit Design  
@@ -41,12 +37,16 @@ It focuses on signal detection, interpretation, and real-time output using embed
 ---
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](images/circuit.png)
+<p align="center">
+  <img src="images/circuit.png" width="500"/>
+</p>
 
 ---
 
-## 🔄 Flowchart
-![Flowchart](images/flowchart.png)
+## 🔄 System Flowchart
+<p align="center">
+  <img src="images/flowchart.png" width="500"/>
+</p>
 
 ---
 
@@ -56,18 +56,26 @@ The Arduino source code for this project is available in the `code/` folder.
 ---
 
 ## 📄 Documentation
-Additional project notes and files are available in the `docs/` folder.
+Detailed project notes and additional materials can be found in the `docs/` folder.
+
+---
+
+## ✨ Highlights
+- Real-time Morse code decoding  
+- Adjustable sensitivity using potentiometer  
+- Practical implementation of signal-based communication  
+- Clean and modular project structure  
 
 ---
 
 ## 🔮 Future Improvements
 - LCD display integration  
+- Improved noise filtering  
 - More accurate signal detection  
-- Expanded character recognition  
-- Noise filtering improvements  
+- Expanded Morse character support  
 
 ---
 
 ## 📬 Contact
-- Email: berenkurt@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/beren-kurt
+- 📧 Email: berenkurt@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/beren-kurt
